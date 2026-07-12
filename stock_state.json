@@ -78,7 +78,7 @@
     "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensory-feel/": {
-    "85%da%af%d8%b1%d9%85": true,
+    "85%da%af%d8%b1%d9%85": false,
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-select/": {
@@ -99,5 +99,100 @@
   "https://iranzaminpetshop.com/product/royal-canin-light-weight-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
     "85%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-british-adult-2/": {
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
+    "85%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-persian-loaf/": {
+    "85%da%af%d8%b1%d9%85": true,
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-cat-digest-gravy-pouch/": {
+    "85%da%af%d8%b1%d9%85": true,
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
+    "85%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-dog-hypoallergenic/": {
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": false,
+    "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-dog-hepatic/": {
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-gastrointestinal-high-fibre/": {
+    "%db%b2%da%a9%db%8c%d9%84%d9%88%db%8c%db%8c-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "7-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-cardiac/": {
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "7-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-mini-sterilised/": {
+    "%db%b3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
+    "8": false,
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-shih-tzu-adult/": {
+    "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-french-bulldog-adult/": {
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-pomeranian-adult-2/": {
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-mini-adult/": {
+    "8": false,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-urinary-s-o-cat/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "%db%b3-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "1500gr": true,
+    "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-hepatic/": {
+    "4": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-renal/": {
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-light-weight-care/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "1500gr": true,
+    "8": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-oral-care/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": false,
+    "1500gr": true,
+    "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "8": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-indoor/": {
+    "400": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-sterilised/": {
+    "400": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   }
 }
