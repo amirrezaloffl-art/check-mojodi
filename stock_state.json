@@ -194,5 +194,56 @@
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-regular-fit/": {
+    "400": false,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-hairball/": {
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-british-adult/": {
+    "%db%b4%db%b0%db%b0%da%af%d8%b1%d9%85": true,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-persian-adult/": {
+    "400": true,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-hair-skin/": {
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-sensory-taste/": {
+    "85%da%af%d8%b1%d9%85": false,
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-digestive-care/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-indoor-long-hair/": {
+    "(whole product)": false
+  },
+  "https://iranzaminpetshop.com/product/royal-canin-satiety-weight-management/": {
+    "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "1500gr": false
   }
 }
