@@ -78,8 +78,8 @@
     "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensory-feel/": {
-    "85%da%af%d8%b1%d9%85": false,
-    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
+    "85%da%af%d8%b1%d9%85": true,
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-select/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
@@ -231,7 +231,7 @@
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensory-taste/": {
-    "85%da%af%d8%b1%d9%85": false,
+    "85%da%af%d8%b1%d9%85": true,
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-digestive-care/": {
