@@ -160,7 +160,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-urinary-s-o-cat/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
     "%db%b3-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "1500gr": true,
+    "1500gr": false,
     "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-hepatic/": {
@@ -183,7 +183,7 @@
     "8": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-indoor/": {
-    "400": true,
+    "400": false,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false
