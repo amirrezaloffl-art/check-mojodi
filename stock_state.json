@@ -93,8 +93,8 @@
     "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-urinary-s-o-gravy/": {
-    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false,
-    "85%da%af%d8%b1%d9%85": false
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
+    "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-light-weight-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
@@ -132,8 +132,8 @@
     "7-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-cardiac/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "7-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "7-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-mini-sterilised/": {
     "%db%b3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
@@ -172,7 +172,7 @@
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-light-weight-care/": {
-    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
     "1500gr": true,
     "8": false
   },
@@ -183,7 +183,7 @@
     "8": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-indoor/": {
-    "400": false,
+    "400": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false
@@ -215,7 +215,7 @@
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-persian-adult/": {
     "400": true,
