@@ -21,10 +21,12 @@
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
     "%db%b4%db%b0%db%b0%da%af%d8%b1%d9%85": false,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
-    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-sterilised/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-pug-adult/": {
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
