@@ -77,7 +77,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensory-smell/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false,
-    "85%da%af%d8%b1%d9%85": false
+    "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensory-feel/": {
     "85%da%af%d8%b1%d9%85": true,
@@ -115,8 +115,8 @@
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
-    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
-    "85%da%af%d8%b1%d9%85": true
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false,
+    "85%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-dog-hypoallergenic/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -311,7 +311,7 @@
   },
   "https://iranzaminpetshop.com/product/hills-metabolic-mini-weight-loss-maintenance/": {
     "6%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/hills-sensitivities-food/": {
