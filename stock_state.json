@@ -10,8 +10,8 @@
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/hills-sterlised-salmon/": {
-    "10%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
-    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "1500gr": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-anallergenic-dog/": {
@@ -50,7 +50,7 @@
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-yorkshire-terrier-adult/": {
-    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-2/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -168,7 +168,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-hepatic/": {
     "4": false,
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal/": {
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -196,7 +196,7 @@
     "400": false,
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
-    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-regular-fit/": {
@@ -212,7 +212,7 @@
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-adult/": {
-    "%db%b4%db%b0%db%b0%da%af%d8%b1%d9%85": true,
+    "%db%b4%db%b0%db%b0%da%af%d8%b1%d9%85": false,
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -245,7 +245,9 @@
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-indoor-long-hair/": {
-    "(whole product)": false
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-satiety-weight-management/": {
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
@@ -277,7 +279,7 @@
   },
   "https://iranzaminpetshop.com/product/hills-urinary-care-c-d-2/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/hills-kidney-care-k-d-dog/": {
     "4%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": true,
@@ -308,7 +310,7 @@
     "1500gr": true
   },
   "https://iranzaminpetshop.com/product/hills-sterlised-duck/": {
-    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "1500gr": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
@@ -333,7 +335,7 @@
   },
   "https://iranzaminpetshop.com/product/hills-adult-small-mini-lamb-rice/": {
     "6-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "1500gr": false
+    "1500gr": true
   },
   "https://iranzaminpetshop.com/product/hills-adult-small-mini-chicken/": {
     "%db%b6%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
@@ -344,14 +346,15 @@
     "3": false
   },
   "https://iranzaminpetshop.com/product/hills-sterilised-chicken/": {
-    "1500gr": true,
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true,
+    "1500gr": false,
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/hills-adult-chicken/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
-    "1500gr": false
+    "1500gr": true
   },
   "https://iranzaminpetshop.com/product/hills-mini-metabolic-mobility/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
