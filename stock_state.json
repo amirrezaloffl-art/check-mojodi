@@ -29,7 +29,7 @@
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-pug-adult/": {
-    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-mini-adult-8/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
@@ -65,8 +65,9 @@
     "85%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensible/": {
+    "%db%b2%da%a9%db%8c%d9%84%d9%88%db%8c%db%8c-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true,
     "400": false,
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten/": {
@@ -85,6 +86,8 @@
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-select/": {
+    "variant 53119": true,
+    "variant 53120": true,
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-beef/": {
@@ -112,7 +115,7 @@
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-cat-digest-gravy-pouch/": {
-    "85%da%af%d8%b1%d9%85": false,
+    "85%da%af%d8%b1%d9%85": true,
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
@@ -417,7 +420,7 @@
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/happy-cat-minkas-urinary-care/": {
-    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/happy-dog-mini-baby-junior/": {
