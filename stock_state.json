@@ -116,12 +116,12 @@
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-cat-digest-gravy-pouch/": {
-    "85%da%af%d8%b1%d9%85": false,
-    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false
+    "85%da%af%d8%b1%d9%85": true,
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
-    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": false,
-    "85%da%af%d8%b1%d9%85": false
+    "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": true,
+    "85%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-dog-hypoallergenic/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -148,7 +148,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-shih-tzu-adult/": {
     "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
-    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-french-bulldog-adult/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
@@ -226,7 +226,7 @@
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-persian-adult/": {
