@@ -1,6 +1,6 @@
 {
   "https://iranzaminpetshop.com/product/royal-canin-sterilized-7/": {
-    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "3-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": true
   },
@@ -16,7 +16,7 @@
     "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-anallergenic-dog/": {
-    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-fussy-exigent/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
@@ -26,7 +26,7 @@
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-sterilised/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-pug-adult/": {
@@ -438,7 +438,7 @@
     "(whole product)": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-jelly/": {
-    "85%da%af%d8%b1%d9%85": false
+    "85%da%af%d8%b1%d9%85": true
   },
   "https://hamrah-pet.com/product/%da%a9%d9%86%d8%b3%d8%b1%d9%88-%d8%a8%da%86%d9%87-%da%af%d8%b1%d8%a8%d9%87-%d8%b4%d8%b3%db%8c%d8%b1-%d9%be%da%a9-%d8%b3%d9%87-%d8%b9%d8%af%d8%af%db%8c-%d8%b7%d8%b9%d9%85-%d9%85%d8%b1%d8%ba%d8%8c/": {
     "(whole product)": false
