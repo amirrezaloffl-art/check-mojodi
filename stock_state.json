@@ -437,5 +437,59 @@
   "https://iranzaminpetshop.com/product/reflex-plus-medium-large-breed-adult-chicken/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
     "%db%b1%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/reflex-plus-medium-large-breed-sterilised-lamb/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b1%db%b2%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true
+  },
+  "https://iranzaminpetshop.com/product/reflex-multi-color-chicken/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/reflex-plus-urinary-chicken/": {
+    "1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "1500gr": false
+  },
+  "https://iranzaminpetshop.com/product/reflex-kitten/": {
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false
+  },
+  "https://iranzaminpetshop.com/product/reflex-plus-sterilised-chicken/": {
+    "1500gr": false,
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": true
+  },
+  "https://iranzaminpetshop.com/product/reflex-plus-kitten-chicken/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+  },
+  "https://iranzaminpetshop.com/product/reflex-plus-adult-chicken/": {
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": true,
+    "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
+    "1500gr": false
+  },
+  "https://iranzaminpetshop.com/product/josera-sterilised-classic-adult/": {
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "18-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/josera-adult-crispy-duck/": {
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": false,
+    "18-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/josera-adult-crispy-chicken/": {
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "18%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+  },
+  "https://iranzaminpetshop.com/product/josera-adult-crispy-beef/": {
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
+    "18%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   }
 }
