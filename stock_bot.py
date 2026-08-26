@@ -42,6 +42,24 @@ HEADERS = {
 }
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
+_FA_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+
+def fa_num(n):
+    """Format a number with thousands separators in Persian digits."""
+    if n is None:
+        return "—"
+    try:
+        s = f"{int(round(float(n))):,}".replace(",", "٬")
+    except (TypeError, ValueError):
+        return "—"
+    return s.translate(_FA_DIGITS)
+
+def norm_variant(val):
+    """Accept old state ({label: bool}) and new state ({label: {stock, price}})."""
+    if isinstance(val, dict):
+        return bool(val.get("stock", False)), val.get("price")
+    return bool(val), None          # legacy boolean-only entry
+
 
 # ---------------- persistence ----------------
 def load_json(path, default):
@@ -212,6 +230,17 @@ def variant_label(v: dict) -> str:
     parts = [str(x) for x in attrs.values() if x]
     return " / ".join(parts) if parts else f"variant {v.get('variation_id','?')}"
 
+def _to_price(v):
+    """Prefer the current (post-sale) price; fall back to regular price."""
+    for key in ("display_price", "display_regular_price"):
+        val = v.get(key)
+        if val is not None and val != "":
+            try:
+                return float(val)
+            except (TypeError, ValueError):
+                pass
+    return None
+
 def parse_variations(soup):
     form = soup.select_one("form.variations_form")
     if not form or not form.has_attr("data-product_variations"):
@@ -223,7 +252,12 @@ def parse_variations(soup):
         data = json.loads(raw)
     except Exception:
         return None
-    out = {variant_label(v): bool(v.get("is_in_stock", False)) for v in data}
+    out = {}
+    for v in data:
+        out[variant_label(v)] = {
+            "stock": bool(v.get("is_in_stock", False)),
+            "price": _to_price(v),
+        }
     return out or None
 
 def parse_fallback(soup, text):
@@ -237,7 +271,14 @@ def parse_fallback(soup, text):
         avail = True
     else:
         avail = has_cart
-    return {"(whole product)": avail}
+    # try to read a single price from the page markup
+    price = None
+    price_el = soup.select_one("p.price, span.price")
+    if price_el:
+        digits = re.sub(r"[^\d]", "", price_el.get_text())
+        if digits:
+            price = float(digits)
+    return {"(whole product)": {"stock": avail, "price": price}}
 
 def check(url):
     r = requests.get(url, headers=HEADERS, timeout=30)
@@ -269,54 +310,78 @@ def run_checks(urls, state, want_report=False, announce_changes=True):
         old            = state.get(url, {})
         new_state[url] = variants
 
-        for label, in_stock in variants.items():
-            prev = old.get(label)
-            if prev is not None and prev != in_stock:
-                changes.append((title, label, in_stock, url))
+        for label, cur in variants.items():
+            cur_stock, cur_price = norm_variant(cur)
+            if label not in old:
+                continue                              # new variant -> baseline only
+            prev_stock, prev_price = norm_variant(old[label])
 
-        print(f"[ok] {title}: " +
-              ", ".join(f"{k}={'IN' if v else 'OUT'}" for k, v in variants.items()))
+            if prev_stock != cur_stock:
+                changes.append({"type": "stock", "title": title, "url": url,
+                                "label": label, "in_stock": cur_stock})
+            # price change: only when both prices are known and differ
+            if (cur_price is not None and prev_price is not None
+                    and cur_price != prev_price):
+                changes.append({"type": "price", "title": title, "url": url,
+                                "label": label, "old": prev_price, "new": cur_price})
+
+        print(f"[ok] {title}: " + ", ".join(
+            f"{k}={'IN' if norm_variant(v)[0] else 'OUT'}@{norm_variant(v)[1]}"
+            for k, v in variants.items()))
         time.sleep(REQUEST_SLEEP)
 
-    # --- notify only about changes, grouped per product ---
+    # --- notify about changes, grouped per product ---
     if announce_changes and changes:
-        # group: one block per product, listing all its changed variants
         by_product = {}
-        for title, label, in_stock, url in changes:
-            by_product.setdefault(url, {"title": title, "items": []})
-            by_product[url]["items"].append((label, in_stock))
+        for c in changes:
+            by_product.setdefault(c["url"], {"title": c["title"], "items": []})
+            by_product[c["url"]]["items"].append(c)
 
         n_changes  = len(changes)
         n_products = len(by_product)
+        n_stock    = sum(1 for c in changes if c["type"] == "stock")
+        n_price    = sum(1 for c in changes if c["type"] == "price")
+
+        def line_for(c, plain=False):
+            if c["type"] == "stock":
+                return (("موجود شد ✅" if c["in_stock"] else "ناموجود شد ❌")
+                        + f"  {c['label']}") if plain else \
+                       (f"{html.escape(c['label'])}: "
+                        f"{'✅ موجود شد' if c['in_stock'] else '❌ ناموجود شد'}")
+            arrow = "▲" if c["new"] > c["old"] else "▼"
+            body = f"{fa_num(c['old'])} ⟵ {fa_num(c['new'])} تومان"
+            return (f"{arrow} قیمت  {c['label']}: "
+                    f"{fa_num(c['old'])} ⟵ {fa_num(c['new'])} تومان") if plain else \
+                   (f"{html.escape(c['label'])}: 💰 {arrow} "
+                    f"{fa_num(c['old'])} ⟵ {fa_num(c['new'])} تومان")
 
         if n_changes <= MANY_CHANGES:
-            # few changes -> readable message(s); send() auto-splits if needed
             blocks = []
             for url, info in by_product.items():
                 lines = [f"<b>{html.escape(info['title'])}</b>"]
-                for label, in_stock in info["items"]:
-                    status = "✅ موجود شد" if in_stock else "❌ ناموجود شد"
-                    lines.append(f"{html.escape(label)}: {status}")
+                lines += [line_for(c) for c in info["items"]]
                 lines.append(url)
                 blocks.append("\n".join(lines))
-            send(f"🔔 <b>{n_changes} تغییر موجودی</b> "
-                 f"({n_products} محصول)\n\n" + "\n\n".join(blocks))
+            header = f"🔔 <b>{n_changes} تغییر</b> ({n_products} محصول)"
+            tags = []
+            if n_stock: tags.append(f"موجودی: {n_stock}")
+            if n_price: tags.append(f"قیمت: {n_price}")
+            if tags: header += "\n" + " | ".join(tags)
+            send(header + "\n\n" + "\n\n".join(blocks))
         else:
-            # many changes -> short summary + details as a file (no length limit)
-            n_in  = sum(1 for _, _, s, _ in changes if s)
-            n_out = n_changes - n_in
-            buf = [f"تغییرات موجودی — {n_changes} تغییر در {n_products} محصول",
+            buf = [f"تغییرات — {n_changes} مورد در {n_products} محصول",
+                   f"(موجودی: {n_stock} | قیمت: {n_price})",
                    time.strftime("%Y-%m-%d %H:%M UTC"), "=" * 50, ""]
             for url, info in by_product.items():
                 buf.append(info["title"])
-                for label, in_stock in info["items"]:
-                    buf.append(f"   {'✅ موجود شد  ' if in_stock else '❌ ناموجود شد'}  {label}")
+                for c in info["items"]:
+                    buf.append("   " + line_for(c, plain=True))
                 buf.append(f"   {url}")
                 buf.append("")
             send_document(
                 "changes.txt", "\n".join(buf),
-                caption=(f"🔔 {n_changes} تغییر موجودی در {n_products} محصول\n"
-                         f"✅ موجود شد: {n_in}   |   ❌ ناموجود شد: {n_out}"))
+                caption=(f"🔔 {n_changes} تغییر در {n_products} محصول\n"
+                         f"📦 موجودی: {n_stock}   |   💰 قیمت: {n_price}"))
 
     # --- full report as a file (only on /report) ---
     if want_report:
@@ -328,8 +393,11 @@ def run_checks(urls, state, want_report=False, announce_changes=True):
             vs = new_state.get(url, {})
             if not vs:
                 buf.append("   ⚠️ خطا در دریافت")
-            for label, in_stock in vs.items():
-                buf.append(f"   {'موجود   ✅' if in_stock else 'ناموجود ❌'}  {label}")
+            for label, cur in vs.items():
+                st, pr = norm_variant(cur)
+                mark = "موجود   ✅" if st else "ناموجود ❌"
+                price_str = f"{fa_num(pr)} تومان" if pr is not None else ""
+                buf.append(f"   {mark}  {label}  {price_str}".rstrip())
             buf.append(f"   {url}")
             buf.append("")
         if errors:
