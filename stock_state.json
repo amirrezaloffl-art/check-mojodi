@@ -33,7 +33,10 @@
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/royal-canin-mini-adult-8/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": true,
+      "price": 7390000.0
+    }
   },
   "https://iranzaminpetshop.com/product/royal-canin-sphynx-adult/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
@@ -44,7 +47,10 @@
     "3": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-chihuahua-adult/": {
-    "1500gr": true
+    "1500gr": {
+      "stock": true,
+      "price": 6210000.0
+    }
   },
   "https://iranzaminpetshop.com/product/royal-canin-maltese-adult/": {
     "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
@@ -291,8 +297,14 @@
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/hills-medium-large-adult-sensitive-stomach-skin/": {
-    "2-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
-    "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "2-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": true,
+      "price": 10320000.0
+    },
+    "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": true,
+      "price": 44850000.0
+    }
   },
   "https://iranzaminpetshop.com/product/hills-liver-care-l-d-dog/": {
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false,
@@ -317,10 +329,22 @@
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
   },
   "https://iranzaminpetshop.com/product/hills-sensitivities-food/": {
-    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": false,
-    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%db%8c%db%8c-%d9%85%d8%ae%d8%af%d9%88%d8%b4": false,
-    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": true,
-    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
+      "stock": false,
+      "price": 2570000.0
+    },
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%db%8c%db%8c-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
+      "stock": false,
+      "price": 23740000.0
+    },
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
+      "stock": true,
+      "price": 18910000.0
+    },
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": false,
+      "price": 19400000.0
+    }
   },
   "https://iranzaminpetshop.com/product/hills-kidney-care-k-d-3/": {
     "1500gr": false,
