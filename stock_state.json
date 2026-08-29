@@ -26,8 +26,14 @@
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-sterilised/": {
-    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": true,
-    "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
+    "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": true,
+      "price": 7990000.0
+    },
+    "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": false,
+      "price": 0.0
+    }
   },
   "https://iranzaminpetshop.com/product/royal-canin-pug-adult/": {
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": false
