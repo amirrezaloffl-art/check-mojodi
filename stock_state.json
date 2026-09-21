@@ -895,7 +895,7 @@
       "price": 21810000.0
     },
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 7440000.0
     }
   },
