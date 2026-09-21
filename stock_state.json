@@ -538,10 +538,10 @@
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 15140000.0
+      "price": 15120000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 34590000.0
     }
   },
@@ -1327,7 +1327,7 @@
       "price": 2070000.0
     },
     "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 21950000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
