@@ -1395,7 +1395,7 @@
   },
   "https://iranzaminpetshop.com/product/monge-hepatic/": {
     "(whole product)": {
-      "stock": false,
+      "stock": true,
       "price": 11290000.0
     }
   },
