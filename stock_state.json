@@ -283,7 +283,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-adult-2/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
-      "stock": true,
+      "stock": false,
       "price": 5160000.0
     },
     "85%da%af%d8%b1%d9%85": {
@@ -313,17 +313,17 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
-      "stock": true,
+      "stock": false,
       "price": 5160000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 430000.0
+      "price": 420000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-dog-hypoallergenic/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 10360000.0
     },
     "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": {
@@ -415,7 +415,7 @@
       "price": 23830000.0
     },
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 3150000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -507,7 +507,7 @@
       "price": 1760000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 7990000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -570,15 +570,11 @@
   "https://iranzaminpetshop.com/product/royal-canin-hairball/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 10280000.0
+      "price": 9750000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
       "stock": false,
       "price": 4360000.0
-    },
-    "%db%b5%db%b0%db%b0%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
-      "stock": false,
-      "price": 2190000.0
     },
     "400": {
       "stock": false,
@@ -612,7 +608,7 @@
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 40510000.0
+      "price": 40500000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
@@ -627,7 +623,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-persian-adult/": {
     "4%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
-      "stock": true,
+      "stock": false,
       "price": 17230000.0
     },
     "400": {
@@ -635,7 +631,7 @@
       "price": 2050000.0
     },
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 4200000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -648,21 +644,21 @@
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 40510000.0
+      "price": 40500000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-hair-skin/": {
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
       "stock": true,
-      "price": 4500000.0
+      "price": 4300000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 10170000.0
+      "price": 9660000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 18870000.0
+      "price": 17920000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
@@ -766,7 +762,7 @@
   "https://iranzaminpetshop.com/product/hills-culinary-creations-medium-adult/": {
     "(whole product)": {
       "stock": false,
-      "price": 183000021960000.0
+      "price": 7300000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-dog-digestive-care-i-d/": {
@@ -931,7 +927,7 @@
       "price": 12700000.0
     },
     "1500gr": {
-      "stock": false,
+      "stock": true,
       "price": 8130000.0
     },
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -1374,16 +1370,20 @@
     }
   },
   "https://iranzaminpetshop.com/product/proplan-healthy-start-kitten/": {
-    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+    "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
       "stock": true,
-      "price": 34010000.0
+      "price": 3600000.0
+    },
+    "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": false,
+      "price": 34000000.0
     },
     "3": {
-      "stock": true,
+      "stock": false,
       "price": 10540000.0
     },
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 5550000.0
     }
   },
