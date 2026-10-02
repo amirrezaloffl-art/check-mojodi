@@ -91,14 +91,14 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-mini-adult-8/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
-      "price": 7390000.0
+      "stock": true,
+      "price": 7760000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-sphynx-adult/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 9570000.0
+      "price": 10050000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
@@ -124,11 +124,11 @@
   "https://iranzaminpetshop.com/product/royal-canin-maltese-adult/": {
     "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
       "stock": false,
-      "price": 5320000.0
+      "price": 5590000.0
     },
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
-      "price": 6210000.0
+      "stock": false,
+      "price": 6530000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-yorkshire-terrier-adult/": {
@@ -606,7 +606,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 10410000.0
+      "price": 10930000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
@@ -716,7 +716,7 @@
   "https://iranzaminpetshop.com/product/trixie-dental-care/": {
     "(whole product)": {
       "stock": false,
-      "price": 322000620000.0
+      "price": 350000.0
     }
   },
   "https://petabad.com/shop/Dog-toothbrush-and-toothpaste/P7026-trixie-dental-care-disposable-finger-pads-50pcs.html": {
@@ -813,16 +813,16 @@
   },
   "https://iranzaminpetshop.com/product/hills-sterlised-duck/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
-      "price": 14150000.0
+      "stock": true,
+      "price": 14860000.0
     },
     "1500gr": {
-      "stock": true,
-      "price": 8220000.0
+      "stock": false,
+      "price": 8640000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 35500000.0
+      "price": 37280000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-metabolic-mini-weight-loss-maintenance/": {
