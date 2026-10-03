@@ -118,7 +118,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-chihuahua-adult/": {
     "1500gr": {
       "stock": true,
-      "price": 6520000.0
+      "price": 6500000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-maltese-adult/": {
@@ -269,12 +269,12 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-light-weight-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
-      "stock": false,
-      "price": 5420000.0
+      "stock": true,
+      "price": 5280000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 460000.0
+      "price": 440000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-adult-2/": {
@@ -588,7 +588,7 @@
     },
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
       "stock": true,
-      "price": 4420000.0
+      "price": 4400000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
@@ -600,7 +600,7 @@
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 42530000.0
+      "price": 42550000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
@@ -784,11 +784,11 @@
   "https://iranzaminpetshop.com/product/hills-liver-care-l-d-dog/": {
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 35210000.0
+      "price": 36980000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 16620000.0
+      "price": 17460000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-cat-food-sensitivities-z-d/": {
@@ -919,7 +919,7 @@
       "price": 13340000.0
     },
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 8540000.0
     },
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -974,15 +974,15 @@
   "https://iranzaminpetshop.com/product/proplan-medium-adult-sensitive-digestion-lamb/": {
     "16-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 35000000.0
+      "price": 36760000.0
     },
     "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 20720000.0
+      "price": 21760000.0
     },
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
-      "price": 10260000.0
+      "stock": false,
+      "price": 10780000.0
     }
   },
   "https://iranzaminpetshop.com/product/proplan-sterilised-adult/": {
@@ -1241,7 +1241,7 @@
   },
   "https://iranzaminpetshop.com/product/reflex-plus-adult-chicken/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1100000.0
     },
     "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
