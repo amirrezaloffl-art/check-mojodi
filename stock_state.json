@@ -75,8 +75,8 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-sterilised/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
-      "price": 7990000.0
+      "stock": false,
+      "price": 9340000.0
     },
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
@@ -140,15 +140,15 @@
   "https://iranzaminpetshop.com/product/royal-canin-renal-2/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 9570000.0
+      "price": 10660000.0
     },
     "7-%da%a9%db%8c%d9%84%d9%88-%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 0.0
+      "price": 20000.0
     },
     "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 0.0
+      "price": 20000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-beauty-jelly/": {
@@ -310,11 +310,11 @@
   "https://iranzaminpetshop.com/product/royal-canin-kitten-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
       "stock": false,
-      "price": 5420000.0
+      "price": 5750000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 450000.0
+      "price": 480000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-dog-hypoallergenic/": {
@@ -1359,7 +1359,7 @@
   },
   "https://iranzaminpetshop.com/product/proplan-healthy-start-kitten/": {
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 4060000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -1378,7 +1378,7 @@
   "https://iranzaminpetshop.com/product/proplan-liveclear-sterilised-senior-turkey/": {
     "(whole product)": {
       "stock": true,
-      "price": 11860000.0
+      "price": 12700000.0
     }
   },
   "https://iranzaminpetshop.com/product/monge-hepatic/": {
