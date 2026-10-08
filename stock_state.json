@@ -117,7 +117,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-chihuahua-adult/": {
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 6900000.0
     }
   },
@@ -240,7 +240,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-renal-beef/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
       "stock": true,
-      "price": 8020000.0
+      "price": 8040000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": true,
@@ -250,7 +250,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-renal-chicken/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
       "stock": true,
-      "price": 8020000.0
+      "price": 8040000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": true,
