@@ -800,15 +800,15 @@
   "https://iranzaminpetshop.com/product/hills-sterlised-duck/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 14860000.0
+      "price": 15900000.0
     },
     "1500gr": {
-      "stock": false,
-      "price": 8640000.0
+      "stock": true,
+      "price": 9240000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 37280000.0
+      "price": 39890000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-metabolic-mini-weight-loss-maintenance/": {
