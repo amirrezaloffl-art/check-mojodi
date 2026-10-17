@@ -270,11 +270,11 @@
   "https://iranzaminpetshop.com/product/royal-canin-british-adult-2/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
       "stock": false,
-      "price": 5280000.0
+      "price": 5600000.0
     },
     "85%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 440000.0
+      "price": 470000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-persian-loaf/": {
@@ -1073,7 +1073,7 @@
   },
   "https://iranzaminpetshop.com/product/happy-cat-minkas-urinary-care/": {
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1290000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
