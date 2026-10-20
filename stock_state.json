@@ -38,7 +38,7 @@
     },
     "%db%b1-%db%b5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
       "stock": true,
-      "price": 9140000.0
+      "price": 8750000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-anallergenic-dog/": {
@@ -1103,7 +1103,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-kitten-jelly/": {
     "85%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 470000.0
     }
   },
