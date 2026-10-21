@@ -1143,7 +1143,7 @@
   },
   "https://iranzaminpetshop.com/product/reflex-plus-medium-large-breed-sterilised-lamb/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1200000.0
     },
     "%db%b1%db%b2%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
