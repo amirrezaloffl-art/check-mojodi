@@ -901,7 +901,7 @@
       "price": 14280000.0
     },
     "1500gr": {
-      "stock": false,
+      "stock": true,
       "price": 9140000.0
     },
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -915,16 +915,16 @@
   },
   "https://iranzaminpetshop.com/product/hills-adult-chicken/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
-      "price": 11540000.0
+      "stock": false,
+      "price": 12970000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 26620000.0
+      "price": 29920000.0
     },
     "1500gr": {
       "stock": false,
-      "price": 6280000.0
+      "price": 7070000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-mini-metabolic-mobility/": {
@@ -1223,7 +1223,7 @@
   },
   "https://iranzaminpetshop.com/product/reflex-plus-adult-chicken/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1220000.0
     },
     "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -1339,7 +1339,7 @@
       "price": 1030000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1220000.0
     }
   },
@@ -1379,5 +1379,18 @@
       "price": 7800000.0
     }
   },
-  "https://iranzaminpetshop.com/product/royal-canin-poodle-adult/": {}
+  "https://iranzaminpetshop.com/product/royal-canin-poodle-adult/": {
+    "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
+      "stock": true,
+      "price": 12600000.0
+    },
+    "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
+      "stock": false,
+      "price": 3740000.0
+    },
+    "3": {
+      "stock": true,
+      "price": 12820000.0
+    }
+  }
 }
