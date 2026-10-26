@@ -1203,7 +1203,7 @@
       "price": 13160000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
-      "stock": true,
+      "stock": false,
       "price": 1220000.0
     }
   },
