@@ -87,7 +87,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-mini-adult-8/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 8230000.0
     }
   },
@@ -113,7 +113,7 @@
       "price": 5930000.0
     },
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 6890000.0
     }
   },
@@ -155,7 +155,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-sensible/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 9100000.0
     },
     "400": {
@@ -225,7 +225,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-renal-beef/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
-      "stock": true,
+      "stock": false,
       "price": 8040000.0
     },
     "85%da%af%d8%b1%d9%85": {
@@ -245,11 +245,11 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-urinary-s-o-gravy/": {
     "%d9%be%da%a9-12-%d8%b9%d8%af%d8%af%db%8c": {
-      "stock": true,
+      "stock": false,
       "price": 8040000.0
     },
     "85%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 670000.0
     }
   },
@@ -370,7 +370,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-french-bulldog-adult/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 11590000.0
+      "price": 12820000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-pomeranian-adult-2/": {
@@ -421,7 +421,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-hepatic/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 12140000.0
     },
     "4": {
@@ -435,13 +435,13 @@
       "price": 12570000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 21570000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-light-weight-care/": {
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 8660000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
@@ -463,7 +463,7 @@
       "price": 0.0
     },
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 8660000.0
     },
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -507,7 +507,7 @@
       "price": 4020000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 9100000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -543,7 +543,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-hairball/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 10860000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
@@ -581,7 +581,7 @@
       "price": 19740000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 45100000.0
     }
   },
@@ -697,8 +697,8 @@
   },
   "https://iranzaminpetshop.com/product/trixie-dental-care/": {
     "(whole product)": {
-      "stock": false,
-      "price": 350000.0
+      "stock": true,
+      "price": 1500000.0
     }
   },
   "https://petabad.com/shop/Dog-toothbrush-and-toothpaste/P7026-trixie-dental-care-disposable-finger-pads-50pcs.html": {
@@ -736,7 +736,7 @@
   "https://iranzaminpetshop.com/product/hills-culinary-creations-medium-adult/": {
     "(whole product)": {
       "stock": false,
-      "price": 7800000.0
+      "price": 8500000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-dog-digestive-care-i-d/": {
@@ -755,7 +755,7 @@
   },
   "https://iranzaminpetshop.com/product/hills-medium-large-adult-sensitive-stomach-skin/": {
     "2-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 11600000.0
     },
     "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -901,7 +901,7 @@
       "price": 14280000.0
     },
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 9140000.0
     },
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -940,7 +940,7 @@
   "https://iranzaminpetshop.com/product/%d9%be%d9%88%da%86-%da%af%d8%b1%d8%a8%d9%87-%d9%87%db%8c%d9%84%d8%b2-hills-kidney-care-k-d-salmon/": {
     "(whole product)": {
       "stock": false,
-      "price": 570000.0
+      "price": 400000.0
     }
   },
   "https://iranzaminpetshop.com/product/hills-urinary-care-multicare-c-d/": {
@@ -955,7 +955,7 @@
   },
   "https://iranzaminpetshop.com/product/proplan-medium-adult-sensitive-digestion-lamb/": {
     "16-5%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
-      "stock": true,
+      "stock": false,
       "price": 39350000.0
     },
     "14%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
