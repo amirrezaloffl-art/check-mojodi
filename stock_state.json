@@ -1,11 +1,11 @@
 {
   "https://iranzaminpetshop.com/product/royal-canin-sterilized-7/": {
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 7120000.0
     },
     "3-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 15680000.0
     }
   },
@@ -375,7 +375,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-pomeranian-adult-2/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 12820000.0
     },
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -573,7 +573,7 @@
       "price": 4670000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": false,
+      "stock": true,
       "price": 9700000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -992,11 +992,11 @@
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 10510000.0
+      "price": 16000000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
-      "stock": false,
-      "price": 1530000.0
+      "stock": true,
+      "price": 1600000.0
     }
   },
   "https://iranzaminpetshop.com/product/happy-cat-minkas-hairball-control/": {
