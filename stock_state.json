@@ -1130,11 +1130,11 @@
   "https://iranzaminpetshop.com/product/reflex-plus-medium-large-breed-adult-chicken/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
       "stock": true,
-      "price": 1200000.0
+      "price": 1300000.0
     },
     "%db%b1%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 15000000.0
+      "price": 15200000.0
     }
   },
   "https://iranzaminpetshop.com/product/reflex-plus-medium-large-breed-sterilised-lamb/": {
@@ -1377,7 +1377,7 @@
   },
   "https://iranzaminpetshop.com/product/royal-canin-poodle-adult/": {
     "3-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%85%d8%ae%d8%af%d9%88%d8%b4": {
-      "stock": true,
+      "stock": false,
       "price": 12600000.0
     },
     "1-5-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -1385,7 +1385,7 @@
       "price": 3740000.0
     },
     "3": {
-      "stock": false,
+      "stock": true,
       "price": 12820000.0
     }
   },
