@@ -269,7 +269,7 @@
       "price": 5600000.0
     },
     "85%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 470000.0
     }
   },
@@ -973,7 +973,7 @@
       "price": 39640000.0
     },
     "1500gr": {
-      "stock": true,
+      "stock": false,
       "price": 7450000.0
     },
     "3": {
