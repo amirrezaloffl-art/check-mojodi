@@ -94,7 +94,7 @@
   "https://iranzaminpetshop.com/product/royal-canin-sphynx-adult/": {
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 10660000.0
+      "price": 11270000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
@@ -566,23 +566,23 @@
   "https://iranzaminpetshop.com/product/royal-canin-british-adult/": {
     "%db%b4%db%b0%db%b0%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 2290000.0
+      "price": 2420000.0
     },
     "%db%b1%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
       "stock": true,
-      "price": 4670000.0
+      "price": 4850000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 9700000.0
+      "price": 11270000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": true,
-      "price": 19740000.0
+      "price": 20870000.0
     },
     "%db%b1%db%b0-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
-      "price": 45100000.0
+      "price": 47700000.0
     }
   },
   "https://iranzaminpetshop.com/product/royal-canin-british-kitten/": {
@@ -1117,7 +1117,7 @@
   },
   "https://hamrah-pet.com/product/%d8%ba%d8%b0%d8%a7%db%8c-%d8%ae%d8%b4%da%a9-%da%af%d8%b1%d8%a8%d9%87-%d8%ac%d9%88%d8%b3%db%8c-%da%a9%d9%84%d8%a7%d8%b3%db%8c%da%a9-%d9%81%d9%84%d9%87/": {
     "(whole product)": {
-      "stock": false,
+      "stock": true,
       "price": null
     }
   },
