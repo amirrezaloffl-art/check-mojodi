@@ -627,7 +627,7 @@
       "price": 5100000.0
     },
     "%db%b2-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
-      "stock": true,
+      "stock": false,
       "price": 10860000.0
     },
     "%db%b4-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
@@ -1187,8 +1187,8 @@
       "price": 13160000.0
     },
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85%d9%81%d9%84%d9%87": {
-      "stock": false,
-      "price": 1220000.0
+      "stock": true,
+      "price": 1320000.0
     }
   },
   "https://iranzaminpetshop.com/product/reflex-plus-kitten-chicken/": {
@@ -1207,8 +1207,8 @@
   },
   "https://iranzaminpetshop.com/product/reflex-plus-adult-chicken/": {
     "%db%b1-%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85-%d9%81%d9%84%d9%87": {
-      "stock": false,
-      "price": 1220000.0
+      "stock": true,
+      "price": 1320000.0
     },
     "15%da%a9%db%8c%d9%84%d9%88%da%af%d8%b1%d9%85": {
       "stock": false,
@@ -1347,14 +1347,14 @@
   },
   "https://iranzaminpetshop.com/product/proplan-liveclear-sterilised-senior-turkey/": {
     "(whole product)": {
-      "stock": true,
-      "price": 12700000.0
+      "stock": false,
+      "price": 13480000.0
     }
   },
   "https://iranzaminpetshop.com/product/monge-hepatic/": {
     "(whole product)": {
       "stock": true,
-      "price": 12700000.0
+      "price": 13480000.0
     }
   },
   "https://iranzaminpetshop.com/product/monge-hepatic-2/": {
